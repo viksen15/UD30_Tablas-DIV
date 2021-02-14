@@ -1,0 +1,25 @@
+table{ 
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    border-style: outset;
+}
+caption{ font-size: 12px;}
+td{
+    border-style: inset;
+}
+#n1{
+    background: lightgreen;
+}
+.rojo { 
+    color: red;
+}
+#n2{
+    background: cyan;
+    text-align: left;
+}
+#n6{
+    background: rgb(255, 166, 246);
+    text-align: right;
+    vertical-align: bottom;
+}

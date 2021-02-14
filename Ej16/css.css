@@ -1,0 +1,17 @@
+table{
+    color: rgb(124, 37, 15);
+    margin: 0 auto;
+    text-align: center;
+    border-style: outset;
+}
+td{ 
+    border-style: inset; 
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#tit{ background: rgb(82, 148, 107);}
+#sub{ background: rgb(247, 189, 151);}
+#amarillo{ background: rgb(255, 248, 143);}
+.confondo{
+    background: rgb(255, 251, 202) url("huellas.png") ;
+}

@@ -1,0 +1,19 @@
+#medio{
+    height: 300px;
+    width: 400px;
+    border: red 5px solid;
+    margin: 20px;
+    padding: 20px;
+}
+#arriba, #abajo{
+    height: 100px;
+    width: 200px;
+    border: blue 2px solid;
+    padding: 5px;
+}
+div{
+    background: url("imagenes/f01.png") left bottom repeat-x,
+                url("imagenes/f02.png") left bottom no-repeat,
+                url("imagenes/f03.png") left top repeat-x;
+    background-color: #a4d3ff;
+}

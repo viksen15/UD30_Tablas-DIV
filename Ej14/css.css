@@ -1,0 +1,14 @@
+body{
+    background: url("pinguino-rey.jpg") center top no-repeat;
+    background-size: 75%;
+}
+table{
+    text-align: center;
+    background: rgb(255, 255, 151);
+    border-style: outset;
+    margin: 0 auto;
+    margin-top: 20%;
+    width: 50%;
+}
+#blanco{ background: white;}
+td{ border-style:inset;}

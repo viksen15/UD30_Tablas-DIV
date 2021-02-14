@@ -1,0 +1,19 @@
+table{
+    border:hsl(190, 89%, 35%) 2px solid;
+    padding: 3px;
+    border-spacing: 0;
+    box-shadow: inset -5px -5px 1px #888;
+}
+    
+th{
+    text-align: center;
+    background: hsl(190, 89%, 18%) 5px;
+    color:lightgreen;
+}
+.even{ background: lightgreen;}
+.odd{background: rgb(109, 192, 109);}
+th,td{
+    width: 25%;
+    border:hsl(190, 89%, 35%) 2px solid;
+}
+.centro{ text-align: center; }

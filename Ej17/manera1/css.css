@@ -1,0 +1,142 @@
+body{ background-image: url(../imagenes/ac.jpg);}
+
+#d1{
+    text-align: center;
+    background-image: url(../imagenes/back_mantel.jpg);
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 10%;
+    mask-repeat: repeat;
+}
+#d2{ 
+    border: black 1px solid;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+#n2{
+    background-image: url(../imagenes/back_mantel.jpg);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 3.5em;
+}
+#d3{
+    text-align: center;
+    background-image: url(../imagenes/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+#d4{
+    background-color: whitesmoke;
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+
+#d5{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-top: 5%;
+    margin-left: 10%;
+    border: black 1px solid;
+}
+#img5{
+    height: 150px;
+    width: 150px;
+}
+#d6{
+    float: left;
+    margin-top: 5%;
+    margin-left: 15%;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    background-color: whitesmoke;
+}
+#img6{
+    height: 110px;
+    width: 110px;
+    padding: 20px;
+}
+#d7{
+    background-color: whitesmoke;
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+#img7{
+    width: 150px;
+    padding-top: 26.5%;
+}
+#d8{
+    background-color: whitesmoke;
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+#img8{
+    height: 150px;
+    padding-left: 25%;
+}
+
+
+#d9{
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 10%;
+    background: linear-gradient(to right, rgb(207, 250, 105), rgb(76, 102, 16) );
+}
+#d10{
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 15%;
+    background: linear-gradient(to bottom, rgb(240,183,161)0%, rgb(119, 37, 16)80%, rgb(117, 34, 1)51%, rgb(191,110,78)100%);
+}
+#d11{
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 15%;
+    background: linear-gradient(to top, rgb(42, 116, 53), rgb(213, 250, 219));
+}
+#d12{
+    float: left;
+    height: 150px;
+    width: 150px;
+    border: black 1px solid;
+    margin-top: 5%;
+    margin-left: 15%;
+    background: linear-gradient(0deg, rgb(42, 116, 53,1),rgb(42, 116, 53,0));
+}
