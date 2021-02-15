@@ -1,5 +1,5 @@
 # UD30_Tablas-DIV
-Ejercicios de la UD30 Tablas y DIV's
+Ejercicios de la UD30 Tablas y DIV's del curso .Net (Reus)
 
 ## Desarrollador
 ``
@@ -7,7 +7,7 @@ VIIKSEN®
 ``
 ### Descripcion
 ````
-En cada carpeta esta el ejercicio de la UD20 Tablas/DIV curso .Net(Reus)
+En cada carpeta esta el ejercicio de la UD30 Tablas/DIV curso .Net(Reus)
 Creacion de paginas HTML añadiendo CSS
 ````
 ### Minimo necesario
